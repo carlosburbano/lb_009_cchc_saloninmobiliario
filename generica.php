@@ -85,12 +85,27 @@
 								</div>
 							</div>
 						</div>
-
 						<h1>h1 titulos principales</h1>
 						<h2>h2 subtitulos</h2>
 						<h3>(h3) título de las fotos destacadas</h3>
 						<p>Tamaño del párrafo, </p>
 						<p><span>p span ( para textos más pequeños)</span></p>
+
+						<h2>titulo lista</h2>
+						<ul>
+							<li>
+								<p>4 edificios de 5, 6 y 7 pisos con departamentos desde 218 m2 más terrazas con espectacular vista.</p>
+							</li>
+							<li>
+								<p>Arquitectura de vanguardia, diseñada por los arquitectos Matías González y Alfredo Fernández, las cuales integran de forma activa la naturaleza y paisajismo de Juan Grimm y Carol Krämer.</p>
+							</li>
+							<li>
+								<p>Finos detalles y materiales nobles son utilizados para los muebles de interior encargados al destacado diseñador Orlando Gatica.</p>
+							</li>
+							<li>
+								<p>Arquitectura de vanguardia, diseñada por los arquitectos Matías González y Alfredo Fernández, las cuales integran de forma activa la naturaleza y paisajismo de Juan Grimm y Carol Krämer.</p>
+							</li>
+						</ul>
 					</div>
 				</div>
 			</div>

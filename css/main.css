@@ -172,6 +172,8 @@ a:hover  .btn_mas p{color: #3f9690;; background: #ffffff; border: solid 2px #fff
 .fecha span:nth-child(2){background: rgba(69,136,115, 0.7);  }
 .fecha span:last-child{background: rgba(255,255,255, 0.2);   }
 
+.contenido ul{list-style-type: none; margin-top: 30px;}
+.contenido li { background: url(../img/icon_small.png) left center no-repeat; padding-left: 33px; }
 
 .detalle h1{color:#28847e; font-size:36px; line-height:120%; margin:0; padding:0; font-weight:100;}
 .detalle h2{color:#e65422; font-size:28px; line-height:120%; margin:0; padding:0; font-weight:100;}
