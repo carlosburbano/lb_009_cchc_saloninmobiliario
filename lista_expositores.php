@@ -58,7 +58,7 @@
 
 			<div class="destacados row">
 				<div class="container">
-					<article class="col-xs-12 col-sm-6 col-md-3">
+					<article class="col-xs-12 col-sm-6 col-md-2">
 						<a href="">
 							<div class="margen_verde">
 								<div class="mascara">
@@ -74,7 +74,7 @@
 						</a>	
 
 					</article>
-					<article class="col-xs-12 col-sm-6 col-md-3">
+					<article class="col-xs-12 col-sm-6 col-md-2">
 						<a href="">
 							<div class="margen_verde">
 								<div class="mascara">
@@ -84,9 +84,12 @@
 									<p>+</p>
 								</span>
 							</div>
+							<div class="col-xs-12">
+								<h2>Proyectos Inmobiliarios</h2>
+							</div>		
 						</a>	
 					</article>
-					<article class="col-xs-12 col-sm-6 col-md-3">
+					<article class="col-xs-12 col-sm-6 col-md-2">
 						<a href="">
 							<div class="margen_verde">
 								<div class="mascara">
@@ -95,10 +98,28 @@
 								<span class="btn_mas">
 									<p>+</p>
 								</span>
+							</div>	
+							<div class="col-xs-12">
+								<h2>Proyectos Inmobiliarios</h2>
+							</div>								
+						</a>	
+					</article>
+					<article class="col-xs-12 col-sm-6 col-md-2">
+						<a href="">
+							<div class="margen_verde">
+								<div class="mascara">
+									<img src="image/ejlista.jpg" class="borde_blanco img-responsive" alt="">		
+								</div>	
+								<span class="btn_mas">
+									<p>+</p>
+								</span>
+							</div>		
+							<div class="col-xs-12">
+								<h2>Proyectos Inmobiliarios</h2>
 							</div>							
 						</a>	
 					</article>
-					<article class="col-xs-12 col-sm-6 col-md-3">
+					<article class="col-xs-12 col-sm-6 col-md-2">
 						<a href="">
 							<div class="margen_verde">
 								<div class="mascara">
@@ -107,23 +128,14 @@
 								<span class="btn_mas">
 									<p>+</p>
 								</span>
-							</div>							
-						</a>	
-					</article>
-					<article class="col-xs-12 col-sm-6 col-md-3">
-						<a href="">
-							<div class="margen_verde">
-								<div class="mascara">
-									<img src="image/ejlista.jpg" class="borde_blanco img-responsive" alt="">		
-								</div>	
-								<span class="btn_mas">
-									<p>+</p>
-								</span>
+							</div>		
+							<div class="col-xs-12">
+								<h2>Proyectos Inmobiliarios</h2>
 							</div>						
 						</a>	
 
 					</article>
-					<article class="col-xs-12 col-sm-6 col-md-3">
+					<article class="col-xs-12 col-sm-6 col-md-2">
 						<a href="">
 							<div class="margen_verde">
 								<div class="mascara">
@@ -133,9 +145,12 @@
 									<p>+</p>
 								</span>
 							</div>
+							<div class="col-xs-12">
+								<h2>Proyectos Inmobiliarios</h2>
+							</div>		
 						</a>	
 					</article>
-					<article class="col-xs-12 col-sm-6 col-md-3">
+					<article class="col-xs-12 col-sm-6 col-md-2">
 						<a href="">
 							<div class="margen_verde">
 								<div class="mascara">
@@ -144,10 +159,13 @@
 								<span class="btn_mas">
 									<p>+</p>
 								</span>
+							</div>		
+							<div class="col-xs-12">
+								<h2>Proyectos Inmobiliarios</h2>
 							</div>							
 						</a>	
 					</article>
-					<article class="col-xs-12 col-sm-6 col-md-3">
+					<article class="col-xs-12 col-sm-6 col-md-2">
 						<a href="">
 							<div class="margen_verde">
 								<div class="mascara">
@@ -156,6 +174,9 @@
 								<span class="btn_mas">
 									<p>+</p>
 								</span>
+							</div>		
+							<div class="col-xs-12">
+								<h2>Proyectos Inmobiliarios</h2>
 							</div>							
 						</a>	
 					</article>
