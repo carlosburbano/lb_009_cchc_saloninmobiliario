@@ -84,7 +84,8 @@ header .col-xs-12{position: relative;}
 #redes_fixed div{float:left; margin:0 5px; }
 #redes_fixed iframe{float:left; margin:0 5px; }
 #redes_fixed p{margin:5px 10px 0 0; float:left; color:#0d74b5; font-size:13px; font-family:'Roboto Condensed', sans-serif;}
-
+.info_footer .redes .row a{transition: all 0.5s ease;}
+.info_footer .redes .row a:hover{opacity: 0.6;}
 
 
 /*home*/
@@ -175,13 +176,15 @@ header .col-xs-12{position: relative;}
 /*footer*/
 footer{width:100%; display:block; background:url(../img/footer_cerros.png) center bottom repeat-x #DDFFE8; padding-bottom:60px;}
 .marcas{background:#fff; /*background: rgba(255,255,255, 0.6 ); */overflow:hidden; display:block; padding:20px; border:solid 1px #fff; -moz-border-radius:10px; -webkit-border-radius:10px; border-radius:10px;}
+.marcas a img{transition: all 0.5s ease;}
+.marcas a img:hover{opacity: 0.6;}
 .marcas_footer img{margin:0 auto;}
 .info_footer{padding-top:24px;}
 .info_footer img{margin:0 auto;}
 .info_footer p{color:#296967; font-size:12px; margin:30px 0 0; display:block; float:left;}
 .redes{padding:0;}
 .redes .row{margin:10px 0 0; }
-.redes a{margin:0; padding:0;}
+.redes a{margin:0; padding:0; transition: all 0.5s ease;}
 .redes p{float:left; text-align:left; font-size:12px; text-transform:uppercase; color:#fff; margin:10px 0 0 0; font-family:roboto, arial,helvetica,sans-serif;}
 
 .marcas_footer h4{font-size:12px; color:#b0f6ff; font-family:Roboto,arial; line-height:100%; margin:0 0 10px 0; padding:0; text-align:left; float:none; clear:both;}
