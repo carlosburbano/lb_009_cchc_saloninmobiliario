@@ -66,7 +66,7 @@
 									<span>10</span>
 									<span>2014</span>
 								</div>
-								<div class="compartir_post">
+								<!-- <div class="compartir_post">
 									<li class="dropdown">
 										<a href="#" class="dropdown-toggle" data-toggle="dropdown">Compartir <span class="btn_compartir"></span></a>
 										<ul class="dropdown-menu" role="menu">
@@ -74,7 +74,7 @@
 											<li><a href="#">Twitter</a></li>
 										</ul>
 									</li>
-								</div>
+								</div> -->
 							</div>
 							<h1 class="titulo_resumen col-xs-12">fotos destacadas  (h3) títulos</h1>
 							<img class="fondo img-responsive" src="image/ejfotovisual.jpg" alt="">
@@ -88,7 +88,8 @@
 						<h1>h1 titulos principales</h1>
 						<h2>h2 subtitulos</h2>
 						<h3>(h3) título de las fotos destacadas</h3>
-						<p>Tamaño del párrafo, </p>
+						
+						<p>Tamaño del párrafo,<strong>esto es texto en bold </strong> </p>
 						<p><span>p span ( para textos más pequeños)</span></p>
 
 						<h2>titulo lista</h2>
@@ -106,6 +107,11 @@
 								<p>Arquitectura de vanguardia, diseñada por los arquitectos Matías González y Alfredo Fernández, las cuales integran de forma activa la naturaleza y paisajismo de Juan Grimm y Carol Krämer.</p>
 							</li>
 						</ul>
+						<blockquote>
+							<h2>sd fsdf sdf</h2>
+							<h3>título de las fotos destacadas </h3>
+							<p> <strong>esto es texto en bold </strong> 4 edificios de 5, 6 y 7 pisos con departamentos desde 218 m2 más terrazas con espectacular vista. Arquitectura de vanguardia, diseñada por los arquitectos Matías González y Alfredo Fernández, las cuales integran de forma activa la naturaleza y paisajismo de Juan Grimm y Carol Krämer.</p>
+						</blockquote>
 					</div>
 				</div>
 			</div>
