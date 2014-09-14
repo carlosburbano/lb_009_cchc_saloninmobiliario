@@ -38,16 +38,16 @@
 			<div class="collapse navbar-collapse" id="menu_principal">
 				<ul class="nav navbar-nav navbar-right">
 					<li class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Quienes Somos</a>
+						<a href="quienes_somos.php" class="dropdown-toggle clickable" data-toggle="dropdown" data-hover="dropdown">Quienes Somos</a>
 						<ul class="dropdown-menu" role="menu">
 							<li><a href="#">Cómo llegar</a></li>
 							<li><a href="#">Plano de la Feria</a></li>
 						</ul>
 					</li>
 					<li class="dropdown">
-						<a href="expositores.php" class="dropdown-toggle" data-toggle="dropdown">Expositores</a>
+						<a href="expositores.php" class="dropdown-toggle clickable" data-toggle="dropdown" data-hover="dropdown">Expositores</a>
 						<ul class="dropdown-menu" role="menu">
-							<li><a href="expositores.php">Proyectos inmobiliarios</a></li>
+							<li><a href="expositores.php">Proyectos Inmobiliarios</a></li>
 							<li><a href="#">Financiamiento</a></li>
 							<li><a href="#">Decoración</a></li>
 							<li><a href="#">Otros</a></li>
