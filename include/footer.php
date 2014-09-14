@@ -83,7 +83,9 @@
 							<p>©SICH 2014. Todos los derechos reservados</p>
 						</div>
 						<div class="col-xs-12 col-sm-6">
-							<img src="img/footer_logo-sich.png" alt="" class="img-responsive">
+							<a href="index.php" target="_blank"> 
+								<img src="img/footer_logo-sich.png" alt="" class="img-responsive">
+							</a>
 						</div>
 						<div class="redes col-xs-12 col-sm-2 col-sm-push-1">
 							<div class="row">

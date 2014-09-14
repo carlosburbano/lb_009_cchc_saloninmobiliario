@@ -58,7 +58,7 @@
 
 			<div class="destacados row">
 				<div class="container">
-					<article class="col-xs-12 col-sm-6 col-md-2">
+					<article class="col-xs-12 col-sm-4 col-md-2">
 						<a href="">
 							<div class="margen_verde">
 								<div class="mascara">
@@ -74,7 +74,7 @@
 						</a>	
 
 					</article>
-					<article class="col-xs-12 col-sm-6 col-md-2">
+					<article class="col-xs-12 col-sm-4 col-md-2">
 						<a href="">
 							<div class="margen_verde">
 								<div class="mascara">
@@ -89,7 +89,7 @@
 							</div>		
 						</a>	
 					</article>
-					<article class="col-xs-12 col-sm-6 col-md-2">
+					<article class="col-xs-12 col-sm-4 col-md-2">
 						<a href="">
 							<div class="margen_verde">
 								<div class="mascara">
@@ -104,7 +104,7 @@
 							</div>								
 						</a>	
 					</article>
-					<article class="col-xs-12 col-sm-6 col-md-2">
+					<article class="col-xs-12 col-sm-4 col-md-2">
 						<a href="">
 							<div class="margen_verde">
 								<div class="mascara">
@@ -119,7 +119,7 @@
 							</div>							
 						</a>	
 					</article>
-					<article class="col-xs-12 col-sm-6 col-md-2">
+					<article class="col-xs-12 col-sm-4 col-md-2">
 						<a href="">
 							<div class="margen_verde">
 								<div class="mascara">
@@ -135,7 +135,7 @@
 						</a>	
 
 					</article>
-					<article class="col-xs-12 col-sm-6 col-md-2">
+					<article class="col-xs-12 col-sm-4 col-md-2">
 						<a href="">
 							<div class="margen_verde">
 								<div class="mascara">
@@ -150,7 +150,7 @@
 							</div>		
 						</a>	
 					</article>
-					<article class="col-xs-12 col-sm-6 col-md-2">
+					<article class="col-xs-12 col-sm-4 col-md-2">
 						<a href="">
 							<div class="margen_verde">
 								<div class="mascara">
@@ -165,7 +165,7 @@
 							</div>							
 						</a>	
 					</article>
-					<article class="col-xs-12 col-sm-6 col-md-2">
+					<article class="col-xs-12 col-sm-4 col-md-2">
 						<a href="">
 							<div class="margen_verde">
 								<div class="mascara">

@@ -90,16 +90,20 @@ header .col-xs-12{position: relative;}
 
 /*home*/
 .contenido.home{background: #DDFFE8;}
-.margen_verde{position:relative; padding:20px; background:#4cccc9; -moz-border-radius:300px; -webkit-border-radius:300px; border-radius:300px;}
+.margen_verde{position:relative; padding:20px; background:#FFFFFF; -moz-border-radius:300px; -webkit-border-radius:300px; border-radius:300px; transition: all 0.2s ease;}
+a:hover .margen_verde{background:#4cccc9;}
 .margen_blanco{position:relative; padding:20px; background:#fff; -moz-border-radius:300px; -webkit-border-radius:300px; border-radius:300px; -webkit-box-shadow: 1px 1px 2px 1px rgba(0, 0, 0, 0.2); -moz-box-shadow:1px 1px 2px 1px rgba(0, 0, 0, 0.2); box-shadow:1px 1px 2px 1px rgba(0, 0, 0, 0.2);}
 .titulo{background:#3f9690; position:absolute; height: 27%; min-height:80px; width:100%; z-index:1; bottom:0; }
 .titulo p{font-size: 18px; font-weight: 100; color: #ffffff; line-height: 110%; font-family: BigNoodleTitlingRegular,arial,Helvetica,sans-serif; text-align: center; max-width: 155px; margin: 6px auto 0; max-height: 56px; letter-spacing: 0.02em; overflow: hidden;}
 .destacados img{position:relative; z-index:0; margin:0 auto; }
-.mascara{position: relative; border:solid 5px #fff; overflow:hidden; -moz-border-radius:300px; -webkit-border-radius:300px; border-radius:300px;}
+.mascara{position: relative; border:solid 5px #4cccc9; overflow:hidden; -moz-border-radius:300px; -webkit-border-radius:300px; border-radius:300px; transition: all 0.2s ease;}
+a:hover .mascara{border:solid 8px #4cccc9;}
 .novedades .mascara{border:solid 5px #3f9690; }
 .destacados a{display:block;}
-.btn_mas{padding: 2px; background:#3f9690; border: solid 3px #fff; position:absolute; bottom: 10%; z-index:3;  right: 8%; -moz-border-radius:300px; -webkit-border-radius:300px; border-radius:300px;}
-.btn_mas p{max-height: 46px; vertical-align: middle; line-height: 60%; padding: 10px; font-size: 40px; font-family: arial,Helvetica,sans-serif; color: #fff; font-weight: 100; background: #3f9690; border: solid 2px #45a9a2;text-align: center; margin: 0 auto; -moz-border-radius:300px; -webkit-border-radius:300px; border-radius:300px;}
+.btn_mas{padding: 2px; background:#3f9690; border: solid 3px #ffffff; position:absolute; bottom: 10%; z-index:3;  right: 8%; -moz-border-radius:300px; -webkit-border-radius:300px; border-radius:300px;transition: all 0.2s ease;}
+a:hover .btn_mas{background:#ffffff; border: solid 3px #3f9690;}
+.btn_mas p{max-height: 46px; vertical-align: middle; line-height: 60%; padding: 10px; font-size: 23px; font-family: arial,Helvetica,sans-serif; color: #fff; font-weight: 100; background: #3f9690; border: solid 2px #45a9a2;text-align: center; margin: 0 auto; -moz-border-radius:300px; -webkit-border-radius:300px; border-radius:300px; transition: all 0.2s ease;}
+a:hover  .btn_mas p{color: #3f9690;; background: #ffffff; border: solid 2px #ffffff;}
 .contenido article{ margin-bottom:20px;}
 
 .novedades{text-align:center;}
@@ -122,12 +126,12 @@ header .col-xs-12{position: relative;}
 	background-image: linear-gradient(to bottom, #E7FFE9 0%, #DDFFE8 100%, #FFFFFF 100%);
 }
 .expositores .margen_verde,.expositores .margen_blanco{padding:15px;}
-.expositores article h2,.lista_expositores article h2{color:#28847e; font-size:26px; line-height:100%; font-weight:100;  text-align:center; margin:15px 0 0; padding:0;}
+.expositores article h2,.lista_expositores article h2{color:#28847e; font-size:22px; line-height:100%; font-weight:100;  text-align:center; margin:15px 0 0; padding:0;}
 .expositores article:first-child .mascara{background:#4cccc9;}
 .expositores article:first-child .margen_verde{background:#fff;}
 .expositores article:nth-child(3) .margen_verde{background:#fff;}
 .expositores article:nth-child(3) .mascara{background:#4f9791;}
-.expositores .btn_mas p{padding:5px; }
+.expositores .btn_mas p{padding:2px; }
 
 .lista_expositores .mascara{background:#f5f5f5; }
 /*.lista_expositores .margen_verde{background:#4cccc9; }*/
@@ -180,7 +184,8 @@ footer{width:100%; display:block; background:url(../img/footer_cerros.png) cente
 .marcas a img:hover{opacity: 0.6;}
 .marcas_footer img{margin:0 auto;}
 .info_footer{padding-top:24px;}
-.info_footer img{margin:0 auto;}
+.info_footer img{margin:0 auto;transition:all 0.5s ease;}
+.info_footer img:hover{opacity:0.7;}
 .info_footer p{color:#296967; font-size:12px; margin:30px 0 0; display:block; float:left;}
 .redes{padding:0;}
 .redes .row{margin:10px 0 0; }
