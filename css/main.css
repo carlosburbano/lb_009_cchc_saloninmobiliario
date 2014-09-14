@@ -181,7 +181,9 @@ blockquote {background: url(../img/icon_blockquote.jpg) left center no-repeat #f
 .detalle h3{color:#839183; font-size:24px; line-height:120%; margin: 0 0 15px 0; padding:0; font-weight:100;}
 .detalle p span{color:#697269; font-size:12px; line-height:120%; margin:0; padding:0; font-weight:100;}
 .detalle p strong{color:#28847e; font-size:14px; line-height:120%; margin:0; padding:0; font-weight:bolder;}
-/*footer*/
+.detalle p a{color: #28847e; font-weight: bolder; font-size: 14px;font-family: Arial,Helvetica,sans-serif; padding-top: 2px; margin-top: 15px; min-height: 36px;text-decoration: none; background:url(../img/btn_red-min.png) right center no-repeat; padding-right:24px; background-size:auto 100%;}
+
+ /*footer*/
 footer{width:100%; display:block; background:url(../img/footer_cerros.png) center bottom repeat-x #DDFFE8; padding-bottom:60px;}
 .marcas{background:#fff; /*background: rgba(255,255,255, 0.6 ); */overflow:hidden; display:block; padding:20px; border:solid 1px #fff; -moz-border-radius:10px; -webkit-border-radius:10px; border-radius:10px;}
 .marcas a img{transition: all 0.5s ease;}

@@ -90,7 +90,7 @@
 						<h3>(h3) título de las fotos destacadas</h3>
 						
 						<p>Tamaño del párrafo,<strong>esto es texto en bold </strong> </p>
-						<p><span>p span ( para textos más pequeños)</span></p>
+						<p><span>p span ( para textos más pequeños)</span> <a href="">Link externo</a></p>
 
 						<h2>titulo lista</h2>
 						<ul>
