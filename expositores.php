@@ -51,7 +51,6 @@
 				</div>
 			</div>
 		</header>
-		
 
 
 		<div class="contenido expositores container-fluid">
