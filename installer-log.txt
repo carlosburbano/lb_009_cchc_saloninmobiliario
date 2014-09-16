@@ -1,0 +1,132 @@
+********************************************************************************
+DUPLICATOR INSTALL-LOG
+STEP1 START @ 10:49:46
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+VERSION:	0.5.6
+PHP:		5.5.12 | SAPI: apache2handler
+SERVER:		Apache/2.2.26 (Unix) DAV/2 PHP/5.5.12
+DOC ROOT:	/Library/WebServer/Documents/lb_009_cchc_saloninmobiliario
+DOC ROOT 755:	false
+LOG FILE 644:	true
+BUILD NAME:	20140916_saloninmobiliario_54182d27b1cc32708140916122927
+REQUEST URL:	http://localhost/lb_009_cchc_saloninmobiliario/installer.php
+
+********************************************************************************
+ARCHIVE SETUP
+********************************************************************************
+NAME:	20140916_saloninmobiliario_54182d27b1cc32708140916122927_archive.zip
+SIZE:	17.4MB
+ZIP:	Enabled (ZipArchive Support)
+EXTRACTING
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 0
+    [filename] => 
+    [comment] => 
+)
+COMPLETE: true
+
+WEB SERVER CONFIGURATION FILE RESET:
+- Backup of .htaccess/web.config made to .orig
+- Reset of .htaccess/web.config files
+
+UPDATED FILES:
+- SQL FILE:  '/Library/WebServer/Documents/lb_009_cchc_saloninmobiliario/installer-data.sql'
+- WP-CONFIG: '/Library/WebServer/Documents/lb_009_cchc_saloninmobiliario/wp-config.php'
+
+ARCHIVE RUNTIME: 4.3567 sec.
+
+
+********************************************************************************
+DATABASE-ROUTINES
+********************************************************************************
+--------------------------------------
+SERVER ENVIROMENT
+--------------------------------------
+MYSQL VERSION:	5.5.29-log
+TIMEOUT:	5000
+MAXPACK:	67108864
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+ERRORS FOUND:	0
+DROP TABLE:	
+QUERIES RAN:	781
+
+wp_commentmeta: (0)
+wp_comments: (1)
+wp_duplicator_packages: (1)
+wp_links: (0)
+wp_options: (135)
+wp_postmeta: (486)
+wp_posts: (117)
+wp_term_relationships: (1)
+wp_term_taxonomy: (1)
+wp_terms: (1)
+wp_usermeta: (23)
+wp_users: (1)
+Removed '25' cache/transient rows
+
+SECTION RUNTIME: 2.2296 sec.
+
+********************************************************************************
+STEP1 COMPLETE @ 10:49:53 - TOTAL RUNTIME: 6.5885 sec.
+********************************************************************************
+
+
+
+********************************************************************************
+DUPLICATOR INSTALL-LOG
+STEP2 START @ 10:51:12
+NOTICE: Do not post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	latin1
+CHARSET CLIENT:	 utf8 
+
+--------------------------------------
+SERIALIZER ENGINE
+[*] scan every column
+[~] scan only text columns
+[^] no searchable columns
+--------------------------------------
+wp_commentmeta^ (0)
+wp_comments~ (1)
+wp_duplicator_packages^ (0)
+wp_links^ (0)
+wp_options~ (108)
+wp_postmeta~ (486)
+wp_posts~ (117)
+wp_term_relationships~ (1)
+wp_term_taxonomy~ (1)
+wp_terms~ (1)
+wp_usermeta~ (23)
+wp_users~ (1)
+--------------------------------------
+SEARCH1:	'http://localhost/lb_009_cchc_saloninmobiliario_wp' 
+REPLACE1:	'http://localhost/lb_009_cchc_saloninmobiliario' 
+SEARCH2:	'/Library/WebServer/Documents/lb_009_cchc_saloninmobiliario_wp/' 
+REPLACE2:	'/Library/WebServer/Documents/lb_009_cchc_saloninmobiliario/' 
+SCANNED:	Tables:12 | Rows:739 | Cells:5197 
+UPDATED:	Tables:1 | Rows:120 |Cells:132 
+ERRORS:		0 
+RUNTIME:	0.121500 sec
+
+********************************************************************************
+START FINAL CLEANUP: 10:51:12
+********************************************************************************
+UPDATE `wp_blogs` SET domain = 'localhost' WHERE domain = 'localhost'
+
+--------------------------------------
+WARNINGS
+--------------------------------------
+No Warnings Found
+
+
+WEB SERVER CONFIGURATION FILE BASIC SETUP:
+created basic .htaccess file.  If using IIS web.config this process will need to be done manually.
+********************************************************************************
+STEP 2 COMPLETE @ 10:51:12 - TOTAL RUNTIME: 0.1271 sec.
+********************************************************************************
