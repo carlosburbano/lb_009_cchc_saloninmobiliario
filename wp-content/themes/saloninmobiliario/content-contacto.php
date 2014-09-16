@@ -74,7 +74,8 @@
 							<!-- <h1 class="titulo_resumen col-xs-12">fotos destacadas  (h3) títulos</h1> -->
 							<?php if ( has_post_thumbnail() ) { the_post_thumbnail('imagen-superior-pagina', array('class' => 'fondo img-responsive')); } ?>
 						</div>
-						
+						<div class="col-xs-12 col-md-12 col-lg-9">
+							
 						<?php
 							the_content();
 							wp_link_pages( array(
@@ -86,6 +87,10 @@
 
 							edit_post_link( __( 'Edit', 'portalinmobiliario' ), '<span class="edit-link">', '</span>' );
 						?>
+						</div>
+						<div class="col-xs-12 col-md-12 col-lg-9">
+							Acá va el lateral
+						</div>
 					</div>
 				</div>
 			</div>
